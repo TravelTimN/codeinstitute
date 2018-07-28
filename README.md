@@ -1,5 +1,5 @@
-This is my very first webpage for my Code Institute studies using Cloud9 IDE.
-It contains three different web pages:
+	This is my very first webpage for my Code Institute studies using Cloud9 IDE.
+	It contains three different web pages:
 
 # index.html
    - this page contains the Stream One tools below
