@@ -1,4 +1,8 @@
-This is my very first webpage for my Code Institute studies using Cloud9 IDE.
+10DEC2020 - update branch from `master` to `main`.
+
+---
+
+This is my very first webpage for my Code Institute studies using ~~Cloud9~~ VSCode IDE.
 It contains three different web pages:
 
 # index.html
@@ -6,7 +10,7 @@ It contains three different web pages:
 ####    - HTML5
 ####    - CSS3
 ####    - JavaScript
-####    - Cloud9 IDE
+####    - ~~Cloud9~~ VSCode IDE
 ####    - Git
 ####    - GitHub
 
